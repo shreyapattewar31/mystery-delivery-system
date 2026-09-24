@@ -92,7 +92,7 @@ The program accepts a JSON file containing three main sections:
 
 ### Example Input
 
-```json
+'''json
 {
     "warehouses": [
         {
@@ -150,6 +150,7 @@ The program accepts a JSON file containing three main sections:
         }
     ]
 }
+'''
 ### Data Fields
 
 #### Warehouses
