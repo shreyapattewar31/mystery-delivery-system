@@ -154,21 +154,21 @@ The program accepts a JSON file containing three main sections:
 ### Data Fields
 
 #### Warehouses
-|-------|-------------|
+
 | Field | Description |
 |-------|-------------|
 | id  | Unique warehouse identifier |
 | location | Warehouse coordinates in '[x, y]' format |
 
 #### Agents
-|-------|-------------|
+
 | Field | Description |
 |-------|-------------|
 | id    | Unique agent identifier |
 | location | Agent's starting coordinates in '[x, y]' format |
 
 #### Packages
-|-------|-------------|
+
 | Field | Description |
 |-------|-------------|
 | id    | Unique package identifier |
