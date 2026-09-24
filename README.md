@@ -349,7 +349,7 @@ json:
 
 
 ### Output Fields
-|-------|-------------|
+
 | Field | Description |
 |-------|-------------|
 | packages_delivered | Total number of packages delivered by the agent |
