@@ -18,7 +18,7 @@ A Python-based logistics simulation system for FastBox that assigns packages to 
 
 ## Project Structure
 
-'''text
+```json
 mystery/
 │
 ├── delivery_system.py     # Main Python program
@@ -35,7 +35,7 @@ mystery/
 ├── test_case_9.json       # Test input
 ├── test_case_10.json      # Test input
 └── README.md              # Project documentation
-'''
+```
 
 ## Requirements
 
