@@ -92,7 +92,7 @@ The program accepts a JSON file containing three main sections:
 
 ### Example Input
 
-'''json
+```json
 {
     "warehouses": [
         {
@@ -150,7 +150,7 @@ The program accepts a JSON file containing three main sections:
         }
     ]
 }
-'''
+```
 ### Data Fields
 
 #### Warehouses
@@ -327,7 +327,7 @@ The generated report contains information about each agent that is assigned at l
 
 ### Example Report
 
-'''json
+```json
 {
     "A1": {
         "packages_delivered": 2,
@@ -346,7 +346,7 @@ The generated report contains information about each agent that is assigned at l
     },
     "best_agent": "A3"
 }
-'''
+```
 
 ### Output Fields
 
